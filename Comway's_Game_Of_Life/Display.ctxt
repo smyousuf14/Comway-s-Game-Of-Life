@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Display()
+comment0.text=\r\n\ Creates\ Display\ objects\ with\ specified\ MAXIMUM_ROW\ and\ MAXIMUM_COLUMN.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ makeFrame()
+comment1.text=\r\n\ Creates\ the\ swing\ Frame\ and\ it's\ content.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ Applies\ the\ rules\ of\ Comway's\ game\ of\ life\ until\ or\ the\ cells\ are\ dead.\r\n
+numComments=3
